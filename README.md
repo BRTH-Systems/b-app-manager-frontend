@@ -1,24 +1,3 @@
 # b-app-manager-frontend
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This is a demo project for demostrating the ability to control a Kubernetes cluster throught it's API, using a web based GUI that represents the application related abstractions. This is only a POC, not really ready to use it anywhere.
